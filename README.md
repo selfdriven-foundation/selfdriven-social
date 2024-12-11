@@ -1,2 +1,2 @@
 # selfdriven-social
-Social app for chatting etc based on AT Protocol
+Social app for the selfdriven Ecosystem for social interactions based on the [AT Protocol](https://atproto.com)
