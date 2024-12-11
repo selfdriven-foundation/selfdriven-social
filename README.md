@@ -5,4 +5,6 @@ Research & Development
 
 ### Contact Us
 [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
+team@selfdriven.foundation
+
 
