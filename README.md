@@ -1,4 +1,4 @@
-## Social app for the selfdriven ecosystem for social interactions based on the [AT Protocol](https://atproto.com).
+### Social protocol & app for the selfdriven ecosystem for social interactions based on the [AT Protocol](https://atproto.com).
 
 ### Status
 Research & Development
