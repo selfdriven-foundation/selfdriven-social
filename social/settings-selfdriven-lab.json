@@ -1,0 +1,45 @@
+{
+	"entityos": {
+		"hostname": "api.entityos.cloud",
+		"logon": "api-lab@selfdriven.cloud",
+		"email": "team@slfdrvn.io",
+		"testing": {
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"rules": [
+		{
+			"env": "password-lab",
+			"set": "entityos.password",
+			"default": "kFbqCip4DAioI28wx5Sobef6qtldbO0r6MV2SCWJ5sywKkuH"
+		},
+		{
+			"env": "keyLeVUhtcr5uEfoEfp-lab",
+			"set": "protect.key",
+			"default": "f13060df481a9cca4b67296aa9f874da847d6ae8acae92243667bfb4f152d1f5"
+		},
+		{
+			"env": "ivmeXcO9yL21O8f1JT-lab",
+			"set": "protect.iv",
+			"default": "86c9bfd33ab1b70ba31677f2831b1aab"
+		},
+		{
+			"env": "prvkeyhexMxsgP9vMHe5YSSex-lab",
+			"set": "protect.sign.privateKeyHex",
+			"default": "0a36d09a43e5b32c02e470b2839b183f01df6e9cc102ce4db93b76c253d54e53"
+		},
+		{
+			"env": "pubkeyhexY7YFBxrxAQzEvWVg-lab",
+			"set": "protect.sign.publicKeyHex",
+			"default": "04413634574b6068cc2c9b02feeceb5859ec3c1cedfcb5536494c72720b52d96445b985f1822e66aac08e718322bbe7b14c5bc83f44a33bfdaaa8138e0594612cc"
+		},
+		{
+			"env": "pubkeyidY7YFBxrxAQzEvWVg-lab",
+			"set": "protect.sign.publicKeyID",
+			"default": "17425"
+		}
+	]
+}
