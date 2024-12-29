@@ -16,7 +16,7 @@
 ### Roadmap
 - Support selfdrivenOS as profiles data source.
 - Build AT Protocol server on Iagon.
-- Integrate with [selfdriven.network](https://selfdriven.tech/network) so can be run by anyone.
+- Integrate with [selfdriven.network](https://selfdriven.network) so can be run by anyone.
 
 ### Usage in the Pilot phase using BlueSky App
 - BlueSky > Settings > Account > Handle > I have my own domain > No DNS Panel
