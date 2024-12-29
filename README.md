@@ -16,5 +16,6 @@
 ### Roadmap
 - Support selfdrivenOS as profiles data source.
 - Build AT Protocol server on Iagon.
+- Integrate with [selfdriven.network](https://selfdriven.network) so can be run by anyone.
 
 
