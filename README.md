@@ -1,4 +1,4 @@
-### Social protocol & app for the selfdriven ecosystem based on the [AT Protocol](https://atproto.com).
+### Social protocol & [Chat](/chat) App for the selfdriven ecosystem based on the [AT Protocol](https://atproto.com).
 
 ### Status
 - Research & Development
@@ -10,5 +10,6 @@
 
 ### Resources
 - [Iagon](https://iagon.com) for Storage & Compute.
+- [Profiles Data (json)](https://raw.githubusercontent.com/selfdriven-foundation/selfdriven-social/main/data/profiles.json)
 
 
