@@ -24,6 +24,4 @@
 - Send this text with your details to octo@selfdriven.foundation or do a pull request.
 - It will then be validated and if OK, added to profiles.json.
 - You can then complete the set up in BlueSky
-- URL example: <code>https://octo.selfdriven.social/.well-known/atproto-did<code>
-
-
+- URL example: <code>https://octo.selfdriven.social/.well-known/atproto-did</code>
