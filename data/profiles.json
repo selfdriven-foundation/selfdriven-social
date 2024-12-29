@@ -3,5 +3,10 @@
         "name": "octo.selfdriven.social",
         "did": "did:plc:zieaji2n77gm2ygtrgyppdos",
         "status": "active"
-    }
+    },
+    {
+        "name": "markbyers.selfdriven.social",
+        "did": "did:plc:is4tw2gpp5rcneyb5yshm5nf",
+        "status": "active"
+    }   
 ]
