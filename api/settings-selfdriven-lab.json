@@ -13,23 +13,19 @@
 	"rules": [
 		{
 			"env": "password-lab",
-			"set": "entityos.password",
-			"default": "kFbqCip4DAioI28wx5Sobef6qtldbO0r6MV2SCWJ5sywKkuH"
+			"set": "entityos.password"
 		},
 		{
 			"env": "keyLeVUhtcr5uEfoEfp-lab",
-			"set": "protect.key",
-			"default": "f13060df481a9cca4b67296aa9f874da847d6ae8acae92243667bfb4f152d1f5"
+			"set": "protect.key"
 		},
 		{
 			"env": "ivmeXcO9yL21O8f1JT-lab",
-			"set": "protect.iv",
-			"default": "86c9bfd33ab1b70ba31677f2831b1aab"
+			"set": "protect.iv"
 		},
 		{
 			"env": "prvkeyhexMxsgP9vMHe5YSSex-lab",
-			"set": "protect.sign.privateKeyHex",
-			"default": "0a36d09a43e5b32c02e470b2839b183f01df6e9cc102ce4db93b76c253d54e53"
+			"set": "protect.sign.privateKeyHex"
 		},
 		{
 			"env": "pubkeyhexY7YFBxrxAQzEvWVg-lab",
