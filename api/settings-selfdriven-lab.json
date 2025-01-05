@@ -25,7 +25,7 @@
 		},
 		{
 			"env": "prvkeyhexMxsgP9vMHe5YSSex-lab",
-			"set": "protect.sign.privateKeyHex"
+			"set": "protect.sign.privateKeyHex" 
 		},
 		{
 			"env": "pubkeyhexY7YFBxrxAQzEvWVg-lab",
