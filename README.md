@@ -10,6 +10,7 @@
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
 ### Resources
+- **[GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-social)**
 - [Iagon](https://iagon.com) for Storage & Compute.
 - [Profiles Data (json)](https://raw.githubusercontent.com/selfdriven-foundation/selfdriven-social/main/data/profiles.json)
 
