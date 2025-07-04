@@ -16,7 +16,7 @@
 
 ### Roadmap
 - Support selfdrivenOS as profiles data source.
-- Research [Messaging-Layer-Security] (https://en.wikipedia.org/wiki/Messaging_Layer_Security) & [matrix.org](https://matrix.org)
+- Research [Messaging-Layer-Security](https://en.wikipedia.org/wiki/Messaging_Layer_Security) & [matrix.org](https://matrix.org)
 - Build AT Protocol server on Iagon.
 - Integrate with [selfdriven.network](https://selfdriven.network) so can be run by anyone.
 
