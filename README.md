@@ -7,7 +7,7 @@
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
-- [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
+- [selfdriven.foundation/connect](https://selfdriven.fyi/connect)
 
 ### Resources
 - **[GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-social)**
@@ -15,7 +15,7 @@
 - [Profiles Data (json)](https://raw.githubusercontent.com/selfdriven-foundation/selfdriven-social/main/data/profiles.json)
 
 ### Roadmap
-- Support selfdrivenOS as profiles data source.
+- Support selfdrivenOS (Organisational System) as profiles data source.
 - Research [Messaging-Layer-Security](https://en.wikipedia.org/wiki/Messaging_Layer_Security) & [matrix.org](https://matrix.org)
 - Build AT Protocol server on Iagon.
 - Integrate with [selfdriven.network](https://selfdriven.network) so can be run by anyone.
