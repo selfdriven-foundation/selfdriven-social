@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Social protocol & [Chat](/chat) App for the selfdriven ecosystem based on the [AT Protocol](https://atproto.com).
+## Social protocol for selfdriven communities based on the [AT Protocol](https://atproto.com).
 
 ### Status
 - Research & Development
