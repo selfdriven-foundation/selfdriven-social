@@ -23,6 +23,7 @@ title: Home
 - Research [Messaging-Layer-Security](https://en.wikipedia.org/wiki/Messaging_Layer_Security) & [matrix.org](https://matrix.org)
 - Build AT Protocol server.
 - Integrate with [selfdriven.network](https://selfdriven.network) so can be run by anyone.
+- Research [BitChat, peer-to-peer encrypted messaging](https://github.com/permissionlesstech)
 
 ### Usage in the Pilot phase using BlueSky App
 - BlueSky > Settings > Account > Handle > I have my own domain > No DNS Panel
